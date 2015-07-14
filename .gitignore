@@ -1,0 +1,7 @@
+go/pkg
+go/src/github.com
+go/src/client/client
+go/src/service/service
+
+nodejs/client/node_modules
+nodejs/service/node_modules

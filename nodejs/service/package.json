@@ -1,0 +1,8 @@
+{
+    "name": "hprose",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "hprose": "~1.6.4" 
+    }
+}
